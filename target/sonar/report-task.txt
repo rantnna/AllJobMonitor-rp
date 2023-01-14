@@ -1,0 +1,6 @@
+projectKey=AllJobMonitor:AllJobMonitor
+serverUrl=http://localhost:8000
+serverVersion=8.9.9.56886
+dashboardUrl=http://localhost:8000/dashboard?id=AllJobMonitor%3AAllJobMonitor
+ceTaskId=AYOXhRO3nCywN-zgSpjZ
+ceTaskUrl=http://localhost:8000/api/ce/task?id=AYOXhRO3nCywN-zgSpjZ
